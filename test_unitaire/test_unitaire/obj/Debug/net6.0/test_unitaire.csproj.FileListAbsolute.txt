@@ -1,0 +1,15 @@
+M:\Code\Prog3\test_unitaire\test_unitaire\bin\Debug\net6.0\test_unitaire.exe
+M:\Code\Prog3\test_unitaire\test_unitaire\bin\Debug\net6.0\test_unitaire.deps.json
+M:\Code\Prog3\test_unitaire\test_unitaire\bin\Debug\net6.0\test_unitaire.runtimeconfig.json
+M:\Code\Prog3\test_unitaire\test_unitaire\bin\Debug\net6.0\test_unitaire.dll
+M:\Code\Prog3\test_unitaire\test_unitaire\bin\Debug\net6.0\test_unitaire.pdb
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.csproj.AssemblyReference.cache
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.GeneratedMSBuildEditorConfig.editorconfig
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.AssemblyInfoInputs.cache
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.AssemblyInfo.cs
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.csproj.CoreCompileInputs.cache
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.dll
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\refint\test_unitaire.dll
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.pdb
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\test_unitaire.genruntimeconfig.cache
+M:\Code\Prog3\test_unitaire\test_unitaire\obj\Debug\net6.0\ref\test_unitaire.dll

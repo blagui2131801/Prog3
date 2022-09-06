@@ -1,0 +1,15 @@
+M:\Code\Prog3\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.exe
+M:\Code\Prog3\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.deps.json
+M:\Code\Prog3\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.runtimeconfig.json
+M:\Code\Prog3\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.dll
+M:\Code\Prog3\RetourPoo\RetourPoo\bin\Debug\net6.0\RetourPoo.pdb
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.AssemblyReference.cache
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.GeneratedMSBuildEditorConfig.editorconfig
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfoInputs.cache
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.AssemblyInfo.cs
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.csproj.CoreCompileInputs.cache
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.dll
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\refint\RetourPoo.dll
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.pdb
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\RetourPoo.genruntimeconfig.cache
+M:\Code\Prog3\RetourPoo\RetourPoo\obj\Debug\net6.0\ref\RetourPoo.dll
