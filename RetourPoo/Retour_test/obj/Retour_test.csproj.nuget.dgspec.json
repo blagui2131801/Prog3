@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\Code\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj": {}
+    "M:\\Code\\Prog3\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj": {}
   },
   "projects": {
-    "M:\\Code\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj": {
+    "M:\\Code\\Prog3\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Code\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj",
+        "projectUniqueName": "M:\\Code\\Prog3\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj",
         "projectName": "RetourPoo",
-        "projectPath": "M:\\Code\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj",
+        "projectPath": "M:\\Code\\Prog3\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj",
         "packagesPath": "C:\\Users\\2131801\\.nuget\\packages\\",
-        "outputPath": "M:\\Code\\Prog3\\RetourPoo\\RetourPoo\\obj\\",
+        "outputPath": "M:\\Code\\Prog3\\Prog3\\RetourPoo\\RetourPoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "M:\\Code\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj": {
+    "M:\\Code\\Prog3\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\Code\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj",
+        "projectUniqueName": "M:\\Code\\Prog3\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj",
         "projectName": "Retour_test",
-        "projectPath": "M:\\Code\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj",
+        "projectPath": "M:\\Code\\Prog3\\Prog3\\RetourPoo\\Retour_test\\Retour_test.csproj",
         "packagesPath": "C:\\Users\\2131801\\.nuget\\packages\\",
-        "outputPath": "M:\\Code\\Prog3\\RetourPoo\\Retour_test\\obj\\",
+        "outputPath": "M:\\Code\\Prog3\\Prog3\\RetourPoo\\Retour_test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "M:\\Code\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj": {
-                "projectPath": "M:\\Code\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj"
+              "M:\\Code\\Prog3\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj": {
+                "projectPath": "M:\\Code\\Prog3\\Prog3\\RetourPoo\\RetourPoo\\RetourPoo.csproj"
               }
             }
           }
